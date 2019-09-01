@@ -6,3 +6,5 @@
 *.hpp text working-tree-encoding=UTF-8
 *.xml text working-tree-encoding=UTF-8
 *.paa -text
+*.pbo -text
+*.pbe -text
