@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Project name="arma-supp">
+	<Package name="Marker brushes">
+		<Container name="CfgMarkerBrushes">
+			<Key ID="STR_ASUP_CfgMarkerBrushes_Chess_Big">
+				<Original>Chess (Big)</Original>
+				<English>Chess (Big)</English>
+				<Russian>Шахматный (Большой)</Russian>
+			</Key>
+			<Key ID="STR_ASUP_CfgMarkerBrushes_Chess_Medium">
+				<Original>Chess (Medium)</Original>
+				<English>Chess (Medium)</English>
+				<Russian>Шахматный (Средний)</Russian>
+			</Key>
+			<Key ID="STR_ASUP_CfgMarkerBrushes_Chess_Small">
+				<Original>Chess (Small)</Original>
+				<English>Chess (Small)</English>
+				<Russian>Шахматный (Маленький)</Russian>
+			</Key>
+
+			<Key ID="STR_ASUP_CfgMarkerBrushes_Circles_Big">
+				<Original>Circles (Big)</Original>
+				<English>Circles (Big)</English>
+				<Russian>Круги (Большие)</Russian>
+			</Key>
+			<Key ID="STR_ASUP_CfgMarkerBrushes_Circles_Medium">
+				<Original>Circles (Medium)</Original>
+				<English>Circles (Medium)</English>
+				<Russian>Круги (Средние)</Russian>
+			</Key>
+			<Key ID="STR_ASUP_CfgMarkerBrushes_Circles_Small">
+				<Original>Circles (Small)</Original>
+				<English>Circles (Small)</English>
+				<Russian>Круги (Маленькие)</Russian>
+			</Key>
+
+			<Key ID="STR_ASUP_CfgMarkerBrushes_Dots">
+				<Original>Dots</Original>
+				<English>Dots</English>
+				<Russian>Точки</Russian>
+			</Key>
+
+			<Key ID="STR_ASUP_CfgMarkerBrushes_Line_Diagonal_Backward">
+				<Original>Line (Diagonal/Backward)</Original>
+				<English>Line (Diagonal/Backward)</English>
+				<Russian>Линия (Диагональная/Назад)</Russian>
+			</Key>
+			<Key ID="STR_ASUP_CfgMarkerBrushes_Line_Diagonal_Forward">
+				<Original>Line (Diagonal/Forward)</Original>
+				<English>Line (Diagonal/Forward)</English>
+				<Russian>Линия (Диагональная/Вперед)</Russian>
+			</Key>
+			<Key ID="STR_ASUP_CfgMarkerBrushes_Line_Horizontal">
+				<Original>Line (Horizontal)</Original>
+				<English>Line (Horizontal)</English>
+				<Russian>Линия (Горизонтальная)</Russian>
+			</Key>
+			<Key ID="STR_ASUP_CfgMarkerBrushes_Line_Vertical">
+				<Original>Line (Vertical)</Original>
+				<English>Line (Vertical)</English>
+				<Russian>Линия (Вертикальная)</Russian>
+			</Key>
+
+			<Key ID="STR_ASUP_CfgMarkerBrushes_Lines_Diagonal_Backward_Big">
+				<Original>Lines (Diagonal/Backward/Big)</Original>
+				<English>Lines (Diagonal/Backward/Big)</English>
+				<Russian>Линии (Диагональные/Назад/Большие)</Russian>
+			</Key>
+			<Key ID="STR_ASUP_CfgMarkerBrushes_Lines_Diagonal_Backward_Medium">
+				<Original>Lines (Diagonal/Backward/Medium)</Original>
+				<English>Lines (Diagonal/Backward/Medium)</English>
+				<Russian>Линии (Диагональные/Назад/Средние)</Russian>
+			</Key>
+			<Key ID="STR_ASUP_CfgMarkerBrushes_Lines_Diagonal_Backward_Small">
+				<Original>Lines (Diagonal/Backward/Small)</Original>
+				<English>Lines (Diagonal/Backward/Small)</English>
+				<Russian>Линии (Диагональные/Назад/Маленькие)</Russian>
+			</Key>
+
+			<Key ID="STR_ASUP_CfgMarkerBrushes_Lines_Diagonal_Forward_Big">
+				<Original>Lines (Diagonal/Forward/Big)</Original>
+				<English>Lines (Diagonal/Forward/Big)</English>
+				<Russian>Линии (Диагональные/Вперед/Большие)</Russian>
+			</Key>
+			<Key ID="STR_ASUP_CfgMarkerBrushes_Lines_Diagonal_Forward_Medium">
+				<Original>Lines (Diagonal/Forward/Medium)</Original>
+				<English>Lines (Diagonal/Forward/Medium)</English>
+				<Russian>Линии (Диагональные/Вперед/Средние)</Russian>
+			</Key>
+			<Key ID="STR_ASUP_CfgMarkerBrushes_Lines_Diagonal_Forward_Small">
+				<Original>Lines (Diagonal/Forward/Small)</Original>
+				<English>Lines (Diagonal/Forward/Small)</English>
+				<Russian>Линии (Диагональные/Вперед/Маленькие)</Russian>
+			</Key>
+
+			<Key ID="STR_ASUP_CfgMarkerBrushes_Horizontal_Large">
+				<Original>Lines (Horizontal/Large)</Original>
+				<English>Lines (Horizontal/Large)</English>
+				<Russian>Линии (Горизонтальные/Огромные)</Russian>
+			</Key>
+			<Key ID="STR_ASUP_CfgMarkerBrushes_Horizontal_Big">
+				<Original>Lines (Horizontal/Big)</Original>
+				<English>Lines (Horizontal/Big)</English>
+				<Russian>Линии (Горизонтальные/Большие)</Russian>
+			</Key>
+			<Key ID="STR_ASUP_CfgMarkerBrushes_Horizontal_Medium">
+				<Original>Lines (Horizontal/Medium)</Original>
+				<English>Lines (Horizontal/Medium)</English>
+				<Russian>Линии (Горизонтальные/Средние)</Russian>
+			</Key>
+			<Key ID="STR_ASUP_CfgMarkerBrushes_Horizontal_Small">
+				<Original>Lines (Horizontal/Small)</Original>
+				<English>Lines (Horizontal/Small)</English>
+				<Russian>Линии (Горизонтальные/Маленькие)</Russian>
+			</Key>
+
+			<Key ID="STR_ASUP_CfgMarkerBrushes_Vertical_Large">
+				<Original>Lines (Vertical/Large)</Original>
+				<English>Lines (Vertical/Large)</English>
+				<Russian>Линии (Вертикальные/Огромные)</Russian>
+			</Key>
+			<Key ID="STR_ASUP_CfgMarkerBrushes_Vertical_Big">
+				<Original>Lines (Vertical/Big)</Original>
+				<English>Lines (Vertical/Big)</English>
+				<Russian>Линии (Вертикальные/Большие)</Russian>
+			</Key>
+			<Key ID="STR_ASUP_CfgMarkerBrushes_Vertical_Medium">
+				<Original>Lines (Vertical/Medium)</Original>
+				<English>Lines (Vertical/Medium)</English>
+				<Russian>Линии (Вертикальные/Средние)</Russian>
+			</Key>
+			<Key ID="STR_ASUP_CfgMarkerBrushes_Vertical_Small">
+				<Original>Lines (Vertical/Small)</Original>
+				<English>Lines (Vertical/Small)</English>
+				<Russian>Линии (Вертикальные/Маленькие)</Russian>
+			</Key>
+
+			<Key ID="STR_ASUP_CfgMarkerBrushes_Squares_Big">
+				<Original>Squares (Big)</Original>
+				<English>Squares (Big)</English>
+				<Russian>Квадраты (Большие)</Russian>
+			</Key>
+			<Key ID="STR_ASUP_CfgMarkerBrushes_Squares_Medium">
+				<Original>Squares (Medium)</Original>
+				<English>Squares (Medium)</English>
+				<Russian>Квадраты (Средние)</Russian>
+			</Key>
+			<Key ID="STR_ASUP_CfgMarkerBrushes_Squares_Small">
+				<Original>Squares (Small)</Original>
+				<English>Squares (Small)</English>
+				<Russian>Квадраты (Маленькие)</Russian>
+			</Key>
+
+			<Key ID="STR_ASUP_CfgMarkerBrushes_PerlinNoise_16">
+				<Original>Perlin noise (16x16)</Original>
+				<English>Perlin noise (16x16)</English>
+				<Russian>Шум Перлина (16x16)</Russian>
+			</Key>
+			<Key ID="STR_ASUP_CfgMarkerBrushes_PerlinNoise_32">
+				<Original>Perlin noise (32x32)</Original>
+				<English>Perlin noise (32x32)</English>
+				<Russian>Шум Перлина (32x32)</Russian>
+			</Key>
+			<Key ID="STR_ASUP_CfgMarkerBrushes_PerlinNoise_64">
+				<Original>Perlin noise (64x64)</Original>
+				<English>Perlin noise (64x64)</English>
+				<Russian>Шум Перлина (64x64)</Russian>
+			</Key>
+			<Key ID="STR_ASUP_CfgMarkerBrushes_PerlinNoise_128">
+				<Original>Perlin noise (128x128)</Original>
+				<English>Perlin noise (128x128)</English>
+				<Russian>Шум Перлина (128x128)</Russian>
+			</Key>
+			<Key ID="STR_ASUP_CfgMarkerBrushes_PerlinNoise_256">
+				<Original>Perlin noise (256x256)</Original>
+				<English>Perlin noise (256x256)</English>
+				<Russian>Шум Перлина (256x256)</Russian>
+			</Key>
+			<Key ID="STR_ASUP_CfgMarkerBrushes_PerlinNoise_512">
+				<Original>Perlin noise (512x512)</Original>
+				<English>Perlin noise (512x512)</English>
+				<Russian>Шум Перлина (512x512)</Russian>
+			</Key>
+			<Key ID="STR_ASUP_CfgMarkerBrushes_PerlinNoise_1024">
+				<Original>Perlin noise (1024x1024)</Original>
+				<English>Perlin noise (1024x1024)</English>
+				<Russian>Шум Перлина (1024x1024)</Russian>
+			</Key>
+			<Key ID="STR_ASUP_CfgMarkerBrushes_PerlinNoise_2048">
+				<Original>Perlin noise (2048x2048)</Original>
+				<English>Perlin noise (2048x2048)</English>
+				<Russian>Шум Перлина (2048x2048)</Russian>
+			</Key>
+			<Key ID="STR_ASUP_CfgMarkerBrushes_PerlinNoise_4096">
+				<Original>Perlin noise (4096x4096)</Original>
+				<English>Perlin noise (4096x4096)</English>
+				<Russian>Шум Перлина (4096x4096)</Russian>
+			</Key>
+		</Container>
+	</Package>
+</Project>
