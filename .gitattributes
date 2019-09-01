@@ -1,2 +1,8 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+*.sqf text working-tree-encoding=UTF-8
+*.sqs text working-tree-encoding=UTF-8
+*.cpp text working-tree-encoding=UTF-8
+*.hpp text working-tree-encoding=UTF-8
+*.xml text working-tree-encoding=UTF-8
+*.paa -text
