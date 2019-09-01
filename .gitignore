@@ -1,3 +1,5 @@
 *.pbo
 *.pbe
 *.bak
+texHeaders.bin
+config.bin
