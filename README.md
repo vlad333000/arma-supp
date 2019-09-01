@@ -1,6 +1,6 @@
 # arma-supp
 
-Repository for useful scripts, configs, and other things for the ArmA 1/2/3, DayZ and OFP
+Repository for useful scripts, configs, and other things for the ArmA 3
 
 ## Links
 
