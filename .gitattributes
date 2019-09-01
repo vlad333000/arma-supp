@@ -8,3 +8,5 @@
 *.paa -text
 *.pbo -text
 *.pbe -text
+texHeaders.bin -text
+config.bin -text
