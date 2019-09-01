@@ -1,0 +1,5 @@
+class CfgFunctions {
+    #include "configs\ASUP_RscProgressBarRadial\CfgFunctions.hpp"
+};
+
+#include "configs\ASUP_RscProgressBarRadial\RscProgressBarRadial.hpp"
